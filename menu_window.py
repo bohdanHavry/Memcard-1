@@ -1,6 +1,6 @@
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QWidget, QHBoxLayout, QVBoxLayout, QPushButton, QLabel, QLineEdit
-
+# тут бодя
 menu_win = QWidget()
 menu_win.setWindowTitle('Меню')
 menu_win.resize(550, 450)
